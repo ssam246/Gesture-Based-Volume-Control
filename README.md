@@ -1,6 +1,6 @@
 # **Gesture-Based Volume Control**
 
-A fun, innovative, and interactive Python-based application that allows you to control your system's volume using hand gestures. This project leverages **Mediapipe** for hand tracking and **PyCaw** for audio control, enabling a touch-free way to adjust volume levels. Perfect for tech enthusiasts, musicians, and anyone looking for a modern, hands-on (or hands-off!) approach to controlling their audio.
+A fun, innovative, and interactive Python-based application that allows you to control your system's volume using hand gestures. This project leverages **Mediapipe** for hand tracking and **PyCaw** for audio control, enabling a touch-free way to adjust volume levels.
 
 ![image](https://github.com/user-attachments/assets/fffcc13a-a38e-4c92-b6fa-b8c8d23e0cf7)
 
